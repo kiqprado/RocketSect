@@ -107,11 +107,10 @@ footer p {
   text-align: center;
   font-family: JetBrains Mono;
   font-size: 14px;
-  font-style: normal;
   font-weight: 500;
   line-height: 28px;
 
-  margin: 24px 0 0;
+  margin-top: 24px;
 }
 
 #lock {
